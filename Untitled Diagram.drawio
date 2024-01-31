@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-01-31T03:57:25.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.0.2" etag="uUgByOEUy5wpGluSKIJC" type="github">
+  <diagram name="Page-1" id="bIcfZl-GRc71Fm9QCxof">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="scheduling[[Process for scheduling a task as a" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="264" y="-50" width="185" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="cronjob on a Kubernetes cluster]]" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="15" y="15" width="195" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="4" style="endArrow=none" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
